@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-05-07T20:47:52.001633",
+    "question": "What is machine learning?",
+    "answer_length": 133,
+    "num_chunks_retrieved": 3,
+    "latency_ms": 9328.18,
+    "estimated_cost_usd": 4.4e-05,
+    "quality_score": 1.0,
+    "model": "gpt-3.5-turbo"
+  },
+  {
+    "timestamp": "2026-05-07T20:48:16.471723",
+    "question": "What are large language models?",
+    "answer_length": 247,
+    "num_chunks_retrieved": 3,
+    "latency_ms": 4590.81,
+    "estimated_cost_usd": 7.7e-05,
+    "quality_score": 1.0,
+    "model": "gpt-3.5-turbo"
+  }
+]
